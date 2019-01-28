@@ -11,3 +11,12 @@ body>section>div>h2{
 body>footer{
     text-align: center;
 }
+body>nav>ul>li{
+    float: left;
+    background-color: rgb(173, 95, 173);
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    margin-right: 2px;  
+}
